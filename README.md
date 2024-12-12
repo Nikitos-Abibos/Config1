@@ -14,7 +14,7 @@ tar -cvf my_files.tar file1.txt file2.txt directory/
 ## 3. Запуск программы
 Теперь вы можете запустить программу из командной строки. Откройте терминал (или командную строку) и выполните следующую команду:
 
-python shell_emulator.py --hostname MyComputer --tar_path path/to/your/my_files.tar
+python konf.py --hostname MyComputer --tar_path path/to/your/my_files.tar
 Замените path/to/your/my_files.tar на фактический путь к вашему TAR файлу.
 
 Пример команды
