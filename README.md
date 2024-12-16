@@ -20,7 +20,7 @@ python konf.py --hostname MyComputer --tar_path path/to/your/my_files.tar
 Пример команды
 Если ваш TAR файл находится в текущем каталоге и называется my_files.tar, команда будет выглядеть так:
 
-python shell_emulator.py --hostname MyComputer --tar_path my_files.tar
+python konf.py --hostname MyComputer --tar_path my_files.tar
 ## 4. Использование программы
 После запуска программы откроется графическое окно. Вы сможете вводить команды в текстовом поле:
 
